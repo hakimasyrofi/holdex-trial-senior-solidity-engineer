@@ -16,9 +16,6 @@ docs/
 # Dotenv file
 .env
 
-# Makefile
-Makefile
-
 # OS generated files #
 ######################
 .DS_Store
