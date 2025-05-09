@@ -122,9 +122,10 @@ make check-l2-balance
 
 ## Resources
 
+- OZEAN Documentation: [https://docs.ozean.finance/](https://docs.ozean.finance/)
+- Optimism Documentation: [https://docs.optimism.io](https://docs.optimism.io)
 - Poseidon Testnet Faucet: [https://poseidon-testnet.hub.caldera.xyz](https://poseidon-testnet.hub.caldera.xyz)
 - Sepolia Testnet Faucet: [https://alchemy.com/faucets/ethereum-sepolia](https://alchemy.com/faucets/ethereum-sepolia)
-- Optimism Documentation: [https://docs.optimism.io](https://docs.optimism.io)
 
 ## Technical Details
 
