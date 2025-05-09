@@ -45,8 +45,15 @@ git clone https://github.com/hakimasyrofi/holdex-trial-senior-solidity-engineer
    ```
 
 4. **Build the Project**:
+
    ```bash
    make build
+   ```
+
+5. **Test the Project**:
+
+   ```bash
+   forge test
    ```
 
 ## Token Deployment
